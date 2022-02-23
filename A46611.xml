@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvonderful prophesie declared by Christian James, a maid of twenty years of age (late daughter to Daniel James) ... ; contrived into meeter by L.P. to the tune of In summer time.</title>
+            <author>James, Christian.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46611</idno>
+            <idno type="STC">Wing J414B</idno>
+            <idno type="STC">ESTC R41806</idno>
+            <idno type="EEBO-CITATION">31360741</idno>
+            <idno type="OCLC">ocm 31360741</idno>
+            <idno type="VID">110787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1741:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvonderful prophesie declared by Christian James, a maid of twenty years of age (late daughter to Daniel James) ... ; contrived into meeter by L.P. to the tune of In summer time.</title>
+                  <author>James, Christian.</author>
+                  <author>L. P.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Clarke, W. Thackeray, and T. Passinger,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Includes one illustration.</note>
+                  <note>Reproduction of original in the Magdalene College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James, Christian --  Prophecies.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:110787:1"/>
+            <head>A VVonderful Propheſie; </head>
+            <argument>
+               <p>Declared by <hi>Chriſtian Iames</hi> a Maid of twenty years of age (late Daughter to <hi>Daniel Iames</hi>) who was born and bred near the Town which is called <hi>Padſtow,</hi> in the County of <hi>Cornwal,</hi> who departed this life upon the 8th. of March. With a true relation of her Behaviour, both in her life time and at the hour of her death, worthy to be had in perpetual me<g ref="char:EOLhyphen"/>mory. </p>
+            </argument>
+            <opener>To the Tune of, <hi>In Summer Time.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>THe mighty Lord that rules in Heaven,</l>
+               <l>ſtrange wonders doth in England ſend</l>
+               <l>And many warnings hath us given,</l>
+               <l>'cauſe we our lives ſhould ſoon amend:</l>
+               <l>But like the miſbelieving Iews,</l>
+               <l>ſo hard of heart our people be,</l>
+               <l>They think that nothing can be true,</l>
+               <l>but that which their own eyes do ſee.</l>
+            </lg>
+            <lg>
+               <l>Therefore good people mark it well,</l>
+               <l>i'le here lay open to your view,</l>
+               <l>A Song moſt wonderful and ſtrange,</l>
+               <l>and can approve it to be true,</l>
+               <l>A Damſel did near padſtow dwell,</l>
+               <l>within the County of Cornwel fair,</l>
+               <l>Whoſe parents had no Child but her,</l>
+               <l>ſhe was her Fathers only heir.</l>
+            </lg>
+            <lg>
+               <l>To whom came many a brave young man,</l>
+               <l>intending to make her a wife,</l>
+               <l>But never tempting tongue could make</l>
+               <l>this Maid to change her maiden life:</l>
+               <l>And though her parents riches had,</l>
+               <l>and coſtly garments her alow'd,</l>
+               <l>In homely habit ſhe would go,</l>
+               <l>and always lated to be proud.</l>
+            </lg>
+            <lg>
+               <l>She ne'r was heard to curſe or ſwear,</l>
+               <l>nor any word of anger give</l>
+               <l>But courteous was in every thing,</l>
+               <l>to them that did about her <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive:</l>
+               <l>If ſhe heard any one to ſwear,</l>
+               <l>or take Gods Sacred name in vain,</l>
+               <l>ſhe told them that they Crucified</l>
+               <l>our Saviour Chriſt again.</l>
+            </lg>
+            <lg>
+               <l>She often did frequent the Church,</l>
+               <l>and alſo did relieve the poor,</l>
+               <l>The Widdow and the fatherleſs,</l>
+               <l>ſhe every day fed at the door:</l>
+               <l>Vpon a time this Damoſel ſhe,</l>
+               <l>fell ſick and in a deadly ſwound,</l>
+               <l>She lay for twenty hours ſpace</l>
+               <l>no life in her could then be found.</l>
+            </lg>
+            <lg>
+               <l>Her aged father did lament,</l>
+               <l>her mother ſhe ſhed many a tear,</l>
+               <l>She wep't, ſhe waild, ſhe wrung her hands,</l>
+               <l>for loſs of this her Daughter dear:</l>
+               <l>Alas, alas my child ſhe ſaid,</l>
+               <l>how dearly I have tendered thee,</l>
+               <l>And wilt thou now forſake the world,</l>
+               <l>and leave me in this miſery.</l>
+            </lg>
+            <lg>
+               <l>I would my birth had been my death,</l>
+               <l>then never had I ſeen this day,</l>
+               <l>This grievous moan the mother made</l>
+               <l>by her dear daughter as ſhe ſay</l>
+               <l>At laſt ſhe did ſtrong waters fetch,</l>
+               <l>and rubs her Temples and each vein,</l>
+               <l>Till at the laſt the Damſel had</l>
+               <l>recover'd life and ſence again.</l>
+            </lg>
+            <lg>
+               <l>And being come unto her ſpeech,</l>
+               <l>with voice moſt ſhrill aloud ſhe cry'd,</l>
+               <l>O Mother you have done me wrong</l>
+               <l>this cannot be by you deny'd:</l>
+               <l>For I was in the way to heaven,</l>
+               <l>two glorious Angels did me guide.</l>
+               <l>Who gently took me by the hand.</l>
+               <l>and held me upon every ſide.</l>
+            </lg>
+            <lg>
+               <l>SInging of Pſalms and ſpiritual Songs,</l>
+               <l>ſo long as we paſt on the way,</l>
+               <l>Till he which had a Golden Crown</l>
+               <l>met us and cauſed us to ſtay:</l>
+               <l>Return ſaid he from whence thou cam'ſt</l>
+               <l>thy Mother for thee makes great moan</l>
+               <l>And tell theſe things which I declare</l>
+               <l>unto thy neghbours every one.</l>
+            </lg>
+            <lg>
+               <l>Speak this quoth he unto them all,</l>
+               <l>how that the Lord e're long will ſend,</l>
+               <l>A grievous puniſhment to them,</l>
+               <l>that do his will willfully offend:</l>
+               <l>This is the laſt age of the world,</l>
+               <l>even to the very ſink of ſin,</l>
+               <l>The puddle of Iniquity,</l>
+               <l>which you long time have wallowed in.</l>
+            </lg>
+            <lg>
+               <l>The men and wives live in diſcord,</l>
+               <l>the Father envies his own Son,</l>
+               <l>The Rich, and poor, the old the young</l>
+               <l>do hourly into Miſchief run:</l>
+               <l>Extortion and Idolatry,</l>
+               <l>and hateful pride is now in uſe,</l>
+               <l>Blaſphemous oaths and curſes vile,</l>
+               <l>the people count as no abuſe.</l>
+            </lg>
+            <lg>
+               <l>Good miniſters are ſet at naught,</l>
+               <l>the Sabbath is prophan'd alſo,</l>
+               <l>The poor lies ſtarving in the ſtreets,</l>
+               <l>oppreſt with ſorrow grief and woe:</l>
+               <l>The loathſome ſin of drunkenneſs</l>
+               <l>and whordom doth too much exc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed,</l>
+               <l>He that can do his neighbour wrong,</l>
+               <l>doth think he doth a Godly deed.</l>
+            </lg>
+            <lg>
+               <l>Now ponder well what I do ſay,</l>
+               <l>dooms dreadful day is nigh at hand,</l>
+               <l>Fire and brimſtone ſhall deſtroy</l>
+               <l>the Heaven, the earth, the Sea and Land</l>
+               <l>And every Soul before the Lord,</l>
+               <l>a juſt acc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt he then ſhall give,</l>
+               <l>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s conſcience ſhall a witneſs be,</l>
+               <l>in what condition he did live.</l>
+            </lg>
+            <lg>
+               <l>Then he that hath done well ſhall paſs</l>
+               <l>fo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th with to everlaſting reſt,</l>
+               <l>And live amongſt thoſe glorious Saints,</l>
+               <l>which Ieſus Chriſt our Lord hath bleſt:</l>
+               <l>Where Martyrs, Prophets &amp; patriarchs,</l>
+               <l>do halelujahs ever ſing,</l>
+               <l>Glory and honour be to God,</l>
+               <l>and unto Chriſt our Heavenly King.</l>
+            </lg>
+            <lg>
+               <l>Then woe to them that have done ill,</l>
+               <l>when they ſhall hear the ſentence paſt</l>
+               <l>Depart ye curſed into hell,</l>
+               <l>whoſe fire for ever more ſhall laſt:</l>
+               <l>The ſorrows which are here foretold,</l>
+               <l>will come on you are it be long,</l>
+               <l>Except Repentance truly dwell</l>
+               <l>in hearts of all both old and young.</l>
+            </lg>
+            <lg>
+               <l>Repentance and true watry eyes,</l>
+               <l>will help to quench the burning flame,</l>
+               <l>Which he hath kindled to conſume</l>
+               <l>this wicked wor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds moſt rotten frame:</l>
+               <l>Let not your building all ſo brave,</l>
+               <l>be burnt and waſted with Gods ire,</l>
+               <l>Nor let our Souls for whom Chriſt dy'd,</l>
+               <l>be burnt in hells eternal Fire.</l>
+            </lg>
+            <lg>
+               <head>He<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e endeth the Propheſie.</head>
+               <l>THeſe ſpeeches ſpoke the Maiden dy'd,</l>
+               <l>and came no more to life again,</l>
+               <l>Her Soul no doubt is gone to heaven</l>
+               <l>with glorious angels to remain:</l>
+               <l>At her deceaſe an harmony</l>
+               <l>of Muſick there was heard to ſound.</l>
+               <l>Which raviſht all the ſtanders by,</l>
+               <l>it did with ſweetneſs ſo abound.</l>
+            </lg>
+            <lg>
+               <l>It pierc'd the earth and air alſo,</l>
+               <l>yet no man knew from whence it came,</l>
+               <l>But each one ſaid it came from heaven,</l>
+               <l>and preſently upon the ſame,</l>
+               <l>The Magiſtrates of that ſame pariſh,</l>
+               <l>which heard and ſaw this wonder ſtrang<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Deſired to have it put in print,</l>
+               <l>cauſe wicked men their ways may change</l>
+            </lg>
+            <p>The Names of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſters of the Pariſh that ſaw the Maid on her Death-bed, and heard the words of the Propheſie which ſhe delivered, were as followeth: <hi>W. Watts</hi> Curate, <hi>T. Davis</hi> H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad-Conſtable, <hi>R. Wilkings,</hi> and <hi>C. Tanner,</hi> C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urch-Wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dens, who by con<g ref="char:EOLhyphen"/>ſent of divers others in the ſame Pariſh, which were in the the preſence at the D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>moſels deceaſe, or uſed a Letter to be written and ſent from thence to London, on purpoſe to have it printed, whereby to avoid ſcandal.</p>
+            <byline>Contrived into Meeter by <hi>L. P.</hi>
+            </byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>I. Clarke, W. Thackeray,</hi> and <hi>T. Paſſinger.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
